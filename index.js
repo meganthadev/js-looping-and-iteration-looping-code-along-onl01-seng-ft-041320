@@ -5,3 +5,5 @@ function writeCards(names, event){
     }
     return array;
 }
+
+function countDown()

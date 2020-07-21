@@ -6,4 +6,6 @@ function writeCards(names, event){
     return array;
 }
 
-function countDown(num)
+function countDown(num) {
+  while num
+}
